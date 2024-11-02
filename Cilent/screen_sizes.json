@@ -1,0 +1,14 @@
+{
+  "small": {
+    "width": 320,
+    "player_offset": 50,
+    "opponent_offset": 440,
+    "height": 750
+  },
+  "large": {
+    "width": 400,
+    "player_offset": 50,
+    "opponent_offset": 550,
+    "height": 950
+  }
+}
